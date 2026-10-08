@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UFC Fantasy</string>
+
+    <!-- Tela 1 -->
+    <string name="brand_ufc">UFC</string>
+    <string name="brand_fantasy">FANTASY</string>
+    <string name="tagline">Sua pontuação. Sua estratégia.</string>
+    <string name="label_scalability">Sua Escalabilidade</string>
+    <string name="label_global_rank">Rank Global</string>
+    <string name="unit_pts">pts</string>
+    <string name="global_rank_format">#%1$dº</string>
+    <string name="section_featured">Lutadores em destaque</string>
+    <string name="action_filter">Filtrar</string>
+    <string name="rank_position_format">#%1$d</string>
+    <string name="points_format">%1$s pts</string>
+    <string name="last_fight_format">Última: +%1$d pts</string>
+    <string name="nav_fighters">Lutadores</string>
+    <string name="nav_leagues">Ligas</string>
+    <string name="nav_news">Notícias</string>
+    <string name="nav_profile">Perfil</string>
+
+    <!-- Tela 2 -->
+    <string name="detail_title">Perfil do Lutador</string>
+    <string name="weight_class_format">%1$s (UFC)</string>
+    <string name="label_current_score">Pontuação Atual</string>
+    <string name="label_last_fight">Última Luta</string>
+    <string name="last_points_value">+%1$d</string>
+    <string name="label_wins">Vitórias</string>
+    <string name="label_losses">Derrotas</string>
+    <string name="label_kos">KOs</string>
+    <string name="stats_summary">Resumo de Estatísticas</string>
+    <string name="stat_significant_strikes">Significant Strikes</string>
+    <string name="stat_knockdowns">Knockdowns</string>
+    <string name="stat_takedowns">Takedowns</string>
+    <string name="stat_ground_control">Ground Control</string>
+    <string name="percent_format">%1$d%%</string>
+    <string name="select_fighter">Selecionar Lutador</string>
+    <string name="fighter_selected">Lutador Selecionado ✓</string>
+
+    <!-- Valores opcionais -->
+    <string name="no_data">Sem dados</string>
+    <string name="no_value">—</string>
+
+    <!-- Acessibilidade -->
+    <string name="cd_notifications">Notificações</string>
+    <string name="cd_back">Voltar</string>
+    <string name="cd_share">Compartilhar</string>
+    <string name="cd_fighter_photo">Foto do lutador</string>
+    <string name="cd_open_profile">Abrir perfil</string>
+    <string name="cd_nav_icon">Ícone de navegação</string>
+</resources>
